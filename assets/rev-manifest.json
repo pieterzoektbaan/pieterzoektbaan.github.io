@@ -1,0 +1,22 @@
+{
+  "assets/css/main.min.css": "assets/css/main-a03e6d785c.min.css",
+  "assets/img/bg_brain-section-l.png": "assets/img/bg_brain-section-l-26510553a2.png",
+  "assets/img/bg_brain-section-p.png": "assets/img/bg_brain-section-p-59acc0e20f.png",
+  "assets/img/bg_cover-white-1.png": "assets/img/bg_cover-white-1-ec5f148a40.png",
+  "assets/img/bg_hand-section-l.png": "assets/img/bg_hand-section-l-706aeddb9a.png",
+  "assets/img/bg_hand-section-p.png": "assets/img/bg_hand-section-p-b092d6bea3.png",
+  "assets/img/bg_heart-section-l.png": "assets/img/bg_heart-section-l-bd3f325db4.png",
+  "assets/img/bg_heart-section-p.png": "assets/img/bg_heart-section-p-8821f03978.png",
+  "assets/img/bg_person-section-l.png": "assets/img/bg_person-section-l-0e471fd334.png",
+  "assets/img/eagle_grey.png": "assets/img/eagle_grey-5b26d3a339.png",
+  "assets/img/logos/logo-blackangels.png": "assets/img/logos/logo-blackangels-48030f6824.png",
+  "assets/img/logos/logo-github.png": "assets/img/logos/logo-github-3b519df381.png",
+  "assets/img/logos/logo-gulp.png": "assets/img/logos/logo-gulp-d6402cd403.png",
+  "assets/img/logos/logo-nodejs.png": "assets/img/logos/logo-nodejs-7d1a5754b5.png",
+  "assets/img/logos/logo-notepad.png": "assets/img/logos/logo-notepad-91a6874bf3.png",
+  "assets/img/logos/logo-nunjucks.png": "assets/img/logos/logo-nunjucks-5e5368ddef.png",
+  "assets/img/logos/logo-postcss.png": "assets/img/logos/logo-postcss-942cfc4b36.png",
+  "assets/img/scene_grey.png": "assets/img/scene_grey-cd56979401.png",
+  "assets/js/main.min.js": "assets/js/main-3e78a87fdb.min.js",
+  "assets/js/vendor.min.js": "assets/js/vendor-db52cc4a6a.min.js"
+}
